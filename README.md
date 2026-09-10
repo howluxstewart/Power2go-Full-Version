@@ -238,3 +238,6 @@ This repository serves as the official landing page for Power2Go. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Power2Go today!**
+
+---
+**Last updated:** 2026-09-10 14:00:26 UTC
