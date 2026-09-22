@@ -240,4 +240,4 @@ This repository serves as the official landing page for Power2Go. The software i
 **Get the most recent version of Power2Go today!**
 
 ---
-**Last updated:** 2026-09-22 00:29:45 UTC
+**Last updated:** 2026-09-22 05:44:27 UTC
